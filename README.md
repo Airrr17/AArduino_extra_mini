@@ -5,7 +5,7 @@ AArduino extra mini.
   
 **Board version 0.9:**  
 I just wanted to make a smaller board for this microcontroller.  
-_Size is 12.5mm X 21.5mm only!_   
+_Size is 12.5mm X 25.5mm only!_   
 So here is minimal ATmega328p configuration. All pins are exposed for use.  
 No voltage regulator, 5.0v maximum. rtfm.  
 You can flash a bootloader after soldering the cpu, use SPI pins then.  
