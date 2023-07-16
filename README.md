@@ -3,9 +3,9 @@
 AArduino.  
   
   
-**Board version 0.9: ** 
+**Board version 0.9:**  
 I just wanted to make a smaller board for this microcontroller.  
-Size is 12.5mm X 21.5mm only!   
+_Size is 12.5mm X 21.5mm only!_   
 So here is minimal ATmega328p configuration. All pins are exposed for use.  
 No voltage regulator, 5.0v maximum. rtfm.  
 You can flash a bootloader after soldering the cpu, use SPI pins then.  
@@ -28,8 +28,8 @@ Photos:
 [![click for full size](pics/schemS.png)](pics/schem.png)
 ![click for full size](pics/pcb.png)
 ![click for full size](pics/pcb_3d1.png)
-Can be soldered with first-left (right) pinheader 2.0mm:
+Can be soldered with first-left (right) pin header 2.0mm:
 ![click for full size](pics/pcb_3d2.png)
 [![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
-The same:
+About the same photo:
 [![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
