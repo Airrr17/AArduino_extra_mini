@@ -9,6 +9,7 @@ _Size is 12.5mm X 21.5mm only!_
 So here is minimal ATmega328p configuration. All pins are exposed for use.  
 No voltage regulator, 5.0v maximum. rtfm.  
 You can flash a bootloader after soldering the cpu, use SPI pins then.  
+PCBway and JLpcb gerbers are provided.  
   
   
   
@@ -28,8 +29,11 @@ Photos:
 [![click for full size](pics/schemS.png)](pics/schem.png)
 ![click for full size](pics/pcb.png)
 ![click for full size](pics/pcb_3d1.png)
-Can be soldered with first-left (right) pin header 2.0mm:
+  
+   
+   
+Can be soldered with first-left (right) pin header 2.0mm:  
 ![click for full size](pics/pcb_3d2.png)
 [![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
-About the same photo:
+About the same photo. Male or female pin header. 1.27mm!:  
 [![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
