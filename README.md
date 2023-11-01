@@ -30,13 +30,28 @@ No firmware, use arduino bootloader.
   
 Photos:  
 [![click for full size](pics/schemS.png)](pics/schem.png)
-![click for full size](pics/pcb.png)
-![click for full size](pics/pcb_3d1.png)
+![pic](pics/pcb.png)  
+R1 - 1k  
+R2 - 10k  
+R3 - 1k  
+Y1 - 16mHz  
+C1 - 10u  
+C2 - 100n  
+C3 - 22pF  
+C4 - 22pF  
+C5 - 100n  
+C6 - 100n  
+D1 - any led  
+D2 - any led  
+U1 - ATmega328p tqfp OR ATmega48P/88P/168P tqfp  
+  
+![pic](pics/place.png)
+![pic](pics/pcb_3d1.png)
   
    
    
 Can be soldered with first-left (right) pin header 2.0mm:  
-![click for full size](pics/pcb_3d2.png)
+![pic](pics/pcb_3d2.png)
 [![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
 About the same photo. Male or female pin header. 1.27mm!:  
 [![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
