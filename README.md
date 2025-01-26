@@ -6,7 +6,8 @@ AArduino extra mini.
 **Board version 0.9:**  
 I just wanted to make a smaller board for this microcontroller.  
 _Size is 12.5mm X 25.5mm only!_   
-So here is minimal ATmega328p configuration. All pins are exposed for use.  
+So here is minimal ATmega328p configuration.  
+ALL pins are exposed for use and arranged form D2 to D13 and from A0 to A7 clockwise.  
 No voltage regulator, 5.0v maximum. rtfm.  
 You can flash a bootloader after soldering the cpu, use SPI pins then.  
   
@@ -17,10 +18,10 @@ PCBway and JLpcb gerbers are provided.
   
   
   Parts:  
-- ATmega328p-au, TQFP.  
+- ATmega328p-au, TQFP package.  
 - 16mHz quartz, 5.0x3.2mm.  
-- Some Rs, Cs and LEDs, 0805.  
-- Programming pin header, 5 pins, P1.27.  
+- Some Rs, Cs and LEDs, 0805 package.  
+- Programming pin header, 5 pins, 1.27mm.  
 - Optional "left-first pin header" (or right) 2.00mm pitch.  
   
   
@@ -33,7 +34,9 @@ Photos:
 ![main](pics/mainbig.jpg)  
 [![click for full size](pics/schemS.png)](pics/schem.png)  
 ![pic](pics/pcb.png)  
-
+  
+  **BOM:**  
+  
 R1 - 1k  
 R2 - 10k  
 R3 - 1k  
