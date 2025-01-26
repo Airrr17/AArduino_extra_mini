@@ -29,8 +29,11 @@ No firmware, use arduino bootloader.
   
   
 Photos:  
-[![click for full size](pics/schemS.png)](pics/schem.png)
+  
+![main](pics/mainbig.jpg)  
+[![click for full size](pics/schemS.png)](pics/schem.png)  
 ![pic](pics/pcb.png)  
+
 R1 - 1k  
 R2 - 10k  
 R3 - 1k  
@@ -54,4 +57,10 @@ Can be soldered with first-left (right) pin header 2.0mm:
 ![pic](pics/pcb_3d2.png)
 [![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
 About the same photo. Male or female pin header. 1.27mm!:  
-[![click for full size](pics/photo01s.jpg)](pics/photo01.jpg)
+[![click for full size](pics/photo02s.jpg)](pics/photo02.jpg)
+
+Parts placement:  
+![pic](pics/place2.png)  
+
+Pinout:  
+![pic](pics/pins.png)  
